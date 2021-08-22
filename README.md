@@ -11,6 +11,7 @@
 ### Dependencies
 
 #### You need the Python version 3 installed and the libraries matplotlib, seaborn, pandas and numpy
+#### You will also need the csv dataset of the Stackoverflow2020 results which has been uploaded here
 
 ### Executing program
 #### Run the program for step by step starting with the import command's first
